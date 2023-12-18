@@ -71,6 +71,22 @@
 
 ---
 
+<h2>Testing Artefacts </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/ntyuhai/Testing_documentation">Testing Documentation</a>  </li>
+<li>  <a href="https://github.com/ntyuhai/Web_app_testing">Web App Testing</a>   </li>
+<li> <a href="https://github.com/ntyuhai/Api_testing">API Testing</a>   </li>
+<li>  <a href="https://github.com/ntyuhai/SQL">SQL</a>  </li>
+<li>  <a href="https://github.com/ntyuhai/MongoDB">MongoDB</a>   </li>
+<li> <a href="https://github.com/ntyuhai/Mobile_app_testing">Mobile App Testing</a>  </li>
+<li> <a href="https://github.com/ntyuhai/Charles_proxy">Charles Proxy</a>  </li>
+<li> <a href="https://github.com/ntyuhai/git_bash">Git&Bash</a> </li>
+</ul>
+</p>
+
+---
+
 ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
