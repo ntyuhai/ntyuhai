@@ -6,7 +6,7 @@
 
 Я учусь на тестировщика, прохожу обучение на курсе Artsiom Rusau "Функциональное тестирование ПО". Цель на ближайшее время - применить полученные теоретические знания на практике, в дальнейшем планирую развиваться и совершенствоваться в сфере тестирования. 
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tyuhai.nastya@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@anastasiyatsiukhai-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anastasiya-tsiukhai/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tyuhai.nastya@gmail.com)
 
 ---
 
@@ -23,12 +23,12 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://wa.me/+48507685165" target="_blank">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDF7Okuo94kAw-U7qbCa1h8P8SlMZKhPY2E9Hv1LipRQLxWRLi5lBSZx34a2-pacqta6o&usqp=CAU" width="40" height="40" alt="whatsapp" />
+    <a href="https://www.linkedin.com/in/anastasiya-tsiukhai/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://www.instagram.com/nastya_tyuhai?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="40" height="40" alt="instagram" />
-    </a>
+      <a href="https://t.me/@nastya_tyuhai" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a> 
   </div>
 
 ---
@@ -36,8 +36,9 @@
 ### 📁 Тестовая документация:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+ <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   </div>
 
 ---
