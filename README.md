@@ -10,6 +10,16 @@
 
 ---
 
+### My CV:
+
+<p> 
+ <ul>
+<li>  <a href="https://docs.google.com/document/d/11MC0vSTTznaLU9lep0zF4twxk0Afo5Ll/edit#heading=h.ltclktkwdxm0">Tsiukhai_QA Engineer</a>  </li>
+</ul>
+</p>
+
+---
+
 ### 🤝 Социальные сети:
 
   <div id="badges">
